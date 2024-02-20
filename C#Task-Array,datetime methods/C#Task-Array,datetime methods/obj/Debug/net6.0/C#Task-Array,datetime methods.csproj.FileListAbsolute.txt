@@ -1,0 +1,14 @@
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\bin\Debug\net6.0\C#Task-Array,datetime methods.exe
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\bin\Debug\net6.0\C#Task-Array,datetime methods.deps.json
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\bin\Debug\net6.0\C#Task-Array,datetime methods.runtimeconfig.json
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\bin\Debug\net6.0\C#Task-Array,datetime methods.dll
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\bin\Debug\net6.0\C#Task-Array,datetime methods.pdb
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\obj\Debug\net6.0\C#Task-Array,datetime methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\obj\Debug\net6.0\C#Task-Array,datetime methods.AssemblyInfoInputs.cache
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\obj\Debug\net6.0\C#Task-Array,datetime methods.AssemblyInfo.cs
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\obj\Debug\net6.0\C#Task-Array,datetime methods.csproj.CoreCompileInputs.cache
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\obj\Debug\net6.0\C#Task-Array,datetime methods.dll
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\obj\Debug\net6.0\refint\C#Task-Array,datetime methods.dll
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\obj\Debug\net6.0\C#Task-Array,datetime methods.pdb
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\obj\Debug\net6.0\C#Task-Array,datetime methods.genruntimeconfig.cache
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-Array, datetime methods\C#Task-Array,datetime methods\C#Task-Array,datetime methods\obj\Debug\net6.0\ref\C#Task-Array,datetime methods.dll
